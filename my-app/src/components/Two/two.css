@@ -1,0 +1,67 @@
+.para{
+    color: #F54C1E;
+
+font-size: 20px;
+font-weight: 500;
+margin-right: 460px;
+}
+.para2{
+    color: #031333;
+margin-right: 65px;
+font-size: 48px;
+font-weight: 600;
+
+}
+.para3{
+    color: #818181;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+
+}
+
+.phone{
+    display: flex;
+width: 255px;
+height: 57px;
+background: #F54C1E;
+color: white;
+justify-content: center;
+padding-top: 15px;
+border: none;
+}
+.ss{
+ 
+    margin-top: 55px;
+}
+
+.position-dots{
+    position: absolute;
+    top: 92%;
+    left: 0px;
+}
+
+.position-cup{
+    position: absolute;
+    left: 50px;
+    top: 0;
+}
+
+.laptop-p{
+    padding: 50px 0 0 0;
+}
+
+
+@media (max-width: 768px ) {
+    .laptop-p{
+        padding: 400px 0 0 0;
+    }
+
+    .position-dots{
+        position: absolute;
+        top: 300%;
+        left: 0px;
+    }
+}

@@ -1,0 +1,46 @@
+.f{
+    color: #000;
+font-size: 28px;
+font-weight: 600;
+}
+
+
+
+@media (max-width: 768px) {
+    .f {
+        color: #000;
+        font-size: 28px;
+        font-weight: 600;
+    }
+}
+
+
+
+
+.ff{
+    color: #000;
+font-size: 12px;
+font-weight: 400;
+}
+
+@media (max-width: 768px) {
+    .ff {
+        font-size: 10px;
+    }
+}
+
+.color-btn{
+    margin-top: 30px;
+margin-left: 130px;
+    border-radius: 2px;
+background: #F54C1E;
+display: inline-flex;
+height: 50px;
+padding: 0px 35px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border: none;
+color: white;
+font-weight: 700;
+}

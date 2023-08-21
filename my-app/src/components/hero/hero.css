@@ -1,0 +1,51 @@
+.our{
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.bg-color{
+    background: #031333;
+    
+}
+.con-color{
+    color: #F54C1E;
+ 
+}
+
+.our {
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+@media (max-width: 768px) {
+    .our {
+        font-size: 30px; 
+        margin-top: 20px; 
+        margin-left: 20px; 
+    }
+}
+
+
+
+
+
+
+.bgc{
+
+  background-color:  #F54C1E;
+  border: none;
+  padding: 7px 15px;
+  font-weight: 400;
+  border-radius: 2px;
+  margin-left: 26px;
+
+}
+.scel{
+    margin-left: 22px;
+}
+

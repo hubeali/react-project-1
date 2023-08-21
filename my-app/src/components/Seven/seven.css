@@ -1,0 +1,41 @@
+.get-btn {
+    border-radius: 2px;
+    background: #F54C1E;
+    border: none;
+    padding: 20px;
+    color: #FFF;
+    font-size: 15px;
+    margin-top: -20px;
+    margin-left: 300px;
+}
+
+@media (max-width: 768px) {
+    .get-btn {
+        bottom: -50px;
+     position: absolute;
+     left: -70px;
+    height: 0%;
+    font-size: 7px;
+    
+
+        width: 30%; 
+   
+    }
+}
+
+.get{
+    margin-top: -49px;
+    margin-left: 80px;
+}
+@media (max-width: 768px) {
+    .get {
+     position: relative;
+    
+  margin: -10px 30px 0px 12px;
+   
+
+        font-size: 15px;
+
+     
+    }
+}

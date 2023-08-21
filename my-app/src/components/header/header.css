@@ -1,0 +1,14 @@
+.btn-cl{
+    border-radius: 5px;
+    border: none;
+    color: white;
+background: #F54C1E;
+
+}
+.home{
+    color: #F54C1E;
+}
+ul{
+  font-weight: 500;
+  gap: 50px;
+}
